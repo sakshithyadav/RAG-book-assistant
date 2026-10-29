@@ -1,0 +1,48 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+ollama
+chromadb
+sentence-transformers
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+
+
+tiktoken
+
+# Environment Variables
+
+python-dotenv
+
+# Data Handling
+
+pandas
+numpy
+
+# API / App Layer (optional but common in RAG apps)
+
+fastapi
+uvicorn
+
+# UI (optional)
+
+streamlit
+
+# Utilities
+
+tqdm
+requests
+
+python-dotenv
+streamlit
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-ollama
+chromadb
+pypdf
